@@ -95,7 +95,7 @@ https://sunaecom.netlify.app/
 
 ---
 
-## 💇 Hair by Mana
+## 💇 Hair Cuttery
 
 Premium Hair Salon Website
 
@@ -104,12 +104,17 @@ Premium Hair Salon Website
 - HTML
 - CSS
 - JavaScript
-
+  
 Features
 
 - Responsive Design
 - Modern UI
 - Elegant Layout
+
+🔗 Live Demo
+
+https://www.haircuttery.com
+
 
 ---
 
@@ -135,7 +140,7 @@ Features
 
 📧 **Email**
 
-areeba1044@gmail.com
+ariikhan385@gmail.com
 
 📍 **Location**
 
